@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_GStreamerReceiver/Demo_GStreamerReceiver_UDP.unity
+    guid: 2cf168c73fce64d2c9a1603e91fb3baf
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c1657f8f92f73164a8d8ecfbe7c692e5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}

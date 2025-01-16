@@ -141,9 +141,9 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: -7561611486521404880, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}
+  - {fileID: -335963939723712565, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}
   - {fileID: 11400000, guid: c1657f8f92f73164a8d8ecfbe7c692e5, type: 2}
-  - {fileID: 5747082983250733626, guid: b8fb479d09bc83d4d9ce8211ec994b36, type: 2}
+  - {fileID: -2494369061217121036, guid: b8fb479d09bc83d4d9ce8211ec994b36, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -852,11 +852,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 5e2cdd31-3cff-48c9-8082-22687420d4f8
+  cloudProjectId: 07a494a3-bb2b-485b-8aba-75690969b95b
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Learn Unity
-  organizationId: yonghui583265
+  projectName: TeleSonics
+  organizationId: ayyleung
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

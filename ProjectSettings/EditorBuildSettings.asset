@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Stereo and US VR.unity
+    guid: bfbf4adbfff00214fa7bb0794daae2e6
+  - enabled: 0
     path: Assets/FMETP_STREAM/FMCore/Scenes/Networking/Demo_GStreamerReceiver/Demo_GStreamerReceiver_UDP.unity
     guid: 2cf168c73fce64d2c9a1603e91fb3baf
+  - enabled: 1
+    path: Assets/Build Scene.unity
+    guid: d0de85a2c81d32e4fa35711bd6a60e03
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c1657f8f92f73164a8d8ecfbe7c692e5, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}

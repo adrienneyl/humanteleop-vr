@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -141,9 +141,9 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: -335963939723712565, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}
+  - {fileID: -7561611486521404880, guid: 4d960ceee3d2746499a13c2905f34cfe, type: 2}
   - {fileID: 11400000, guid: c1657f8f92f73164a8d8ecfbe7c692e5, type: 2}
-  - {fileID: -2494369061217121036, guid: b8fb479d09bc83d4d9ce8211ec994b36, type: 2}
+  - {fileID: 5747082983250733626, guid: b8fb479d09bc83d4d9ce8211ec994b36, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -777,11 +777,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Learn Unity
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 809ab7a64f8bdc01
   metroApplicationDescription: Learn Unity
   wsaImages: {}
   metroTileShortName: 
